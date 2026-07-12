@@ -60,3 +60,29 @@ Financial institutions need to identify customers with higher default risk while
 - Real-time dashboard integration
 - Azure SQL connectivity
 - Power BI Service deployment
+
+---
+
+# Dashboard Preview
+
+## Credit Limit by Cluster
+
+![Credit Limit by Cluster](images/credit-limit-by-cluster.png)
+
+---
+
+## Default Rate by Cluster
+
+![Default Rate by Cluster](images/default-rate-by-cluster.png)
+
+---
+
+## Payment Ratio by Cluster
+
+![Payment Ratio by Cluster](images/payment-ratio-by-cluster.png)
+
+---
+
+## PCA Clustering
+
+![PCA Clustering](images/pca-clustering.png)
